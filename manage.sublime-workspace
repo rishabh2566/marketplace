@@ -1,0 +1,427 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Realtor",
+				"realtor"
+			],
+			[
+				"re",
+				"realtor"
+			],
+			[
+				"li",
+				"Listings"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"H",
+				"httpResponse"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"l",
+				"labels"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"f",
+				"forward"
+			],
+			[
+				"file",
+				"fileout"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"gr",
+				"grammar"
+			],
+			[
+				"get",
+				"getGrammar"
+			],
+			[
+				"TK_st",
+				"TK_STRING"
+			],
+			[
+				"TK_re",
+				"TK_REAL"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"TK_m",
+				"TK_MAIN"
+			],
+			[
+				"TK_en",
+				"TK_END"
+			],
+			[
+				"TK_e",
+				"TK_ENDIF"
+			],
+			[
+				"TK_R",
+				"TK_RNUM"
+			],
+			[
+				"TK_O",
+				"TK_OR"
+			],
+			[
+				"TK_n",
+				"TK_NOT"
+			],
+			[
+				"TK_a",
+				"TK_AND"
+			],
+			[
+				"TK_A",
+				"TK_ASSIGNOP"
+			],
+			[
+				"TK_L",
+				"TK_LE"
+			],
+			[
+				"TK_f",
+				"TK_FUNID"
+			],
+			[
+				"TK_I",
+				"TK_ID"
+			],
+			[
+				"TK_sq",
+				"TK_SQC"
+			],
+			[
+				"TK_c",
+				"TK_CL"
+			],
+			[
+				"TK_o",
+				"TK_OP"
+			],
+			[
+				"TK_s",
+				"TK_SEMICOLON"
+			],
+			[
+				"TK_M",
+				"TK_MINUS"
+			],
+			[
+				"lin",
+				"lineNumber"
+			],
+			[
+				"le",
+				"lexemeBegin"
+			],
+			[
+				"str",
+				"struct\tstruct"
+			],
+			[
+				"for",
+				"forward"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/richa/djangoPractice/mypracpro/settings.py",
+		"/Users/richa/djangoPractice/listings/urls.py",
+		"/Users/richa/djangoPractice/templates/partials/_bar.html",
+		"/Users/richa/djangoPractice/templates/listings/listings.html",
+		"/Users/richa/djangoPractice/mypracpro/urls.py",
+		"/Users/richa/djangoPractice/templates/listings/listing.html",
+		"/Users/richa/djangoPractice/listings/views.py",
+		"/Users/richa/djangoPractice/TEMPLATES/pages/about.html",
+		"/Users/richa/djangoPractice/templates/listings/search.html",
+		"/Users/richa/djangoPractice/realtors/apps.py",
+		"/Users/richa/djangoPractice/pages/urls.py",
+		"/Users/richa/djangoPractice/templates/partials/_footer.html",
+		"/Users/richa/djangoPractice/TEMPLATES/pages/index.html",
+		"/Users/richa/djangoPractice/templates/base.html",
+		"/Users/richa/djangoPractice/.gitignore",
+		"/Users/richa/djangoPractice/pages/views.py",
+		"/Users/richa/djangoPractice/template/index.html",
+		"/Users/richa/djangoPractice/template/about.html",
+		"/Users/richa/djangoPractice/pages/apps.py",
+		"/Users/richa/djangoPractice/mypracpro/__init__.py",
+		"/Users/richa/djangoPractice/mypracpro/wsgi.py",
+		"/Users/richa/djangoPractice/manage.py",
+		"/Users/richa/android/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/prebuilt_include/clang/include/clang/Sema/Sema.h",
+		"/Users/richa/stylesheet.css",
+		"/Users/richa/1.html",
+		"/Users/richa/Desktop/stylesheet.css",
+		"/Users/richa/1.css",
+		"/Users/richa/g.html",
+		"/Users/richa/first.c",
+		"/Users/richa/qwer.c",
+		"/Users/richa/Untitled1.ipynb",
+		"/Users/richa/Rishabh/1st year/C Lab Progs/Tutesheet C Progs/SKTS1.C",
+		"/Users/richa/Documents/acad42/ShibSOP/code.py",
+		"/Users/richa/Documents/acad42/ShibSOP/tree.dot",
+		"/Users/richa/Documents/acad42/ShibSOP/Each Feature Descision Tree/eachFeature.py",
+		"/Users/richa/Documents/acad42/ShibSOP/eachFeature.py",
+		"/Users/richa/Documents/acad42/ShibSOP/copy.py",
+		"/Users/richa/TCN_release/README.md",
+		"/Users/richa/Desktop/citation-320971075 (1).bib",
+		"/Users/richa/Desktop/citation-320971075.bib",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P 2/lexer.h",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P 2/lexer.c",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P 2/driver.c",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P 2/parserDef.h",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P 2/lexerDef.h",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P 2/parser.h",
+		"/Users/richa/Documents/acad42/Networks/Lab Sheets/Lab Sheet 4-20180417/client_broken_ftp.c",
+		"/Users/richa/Documents/acad42/Networks/Lab Sheets/Lab Sheet 4-20180417/server_broken_ftp.c",
+		"/Users/richa/Documents/acad42/Networks/Lab Sheets/Lab Sheet 4-20180417/udp_server.c",
+		"/Users/richa/Documents/acad42/Networks/Lab Sheets/Lab Sheet 4-20180417/udp_client.c",
+		"/Users/richa/Documents/acad42/Networks/Lab Sheets/5/udp_client.c",
+		"/Users/richa/Documents/acad42/Networks/Lab Sheets/5/udp_server_pktloss.c",
+		"/Users/richa/Documents/acad42/Networks/Lab Sheets/5/udp_server.c",
+		"/Users/richa/Documents/acad42/Networks/Lab Sheets/5/udp_client_pktloss.c",
+		"/Users/richa/Desktop/Notes/Getting started.tex",
+		"/Users/richa/Desktop/document.tex",
+		"/Users/richa/Documents/acad42/ML/Assignment2/assign2.py",
+		"/Users/richa/TCN_release/code/TCN_main.py",
+		"/Users/richa/Documents/acad42/consBio/consproject/src/Format.java",
+		"/Users/richa/Documents/acad42/ShibSOP/assign2.py",
+		"/Users/richa/TCN_release/code/compare_predictions.py",
+		"/Users/richa/TCN_release/code/tf_models.py",
+		"/Users/richa/TCN_release/code/utils.py",
+		"/Users/richa/TCN_release/code/metrics.py",
+		"/Users/richa/TCN_release/code/datasets.py",
+		"/Users/richa/TCN_release/code/convert.py",
+		"/Users/richa/Desktop/TemporalConvolutionalNetworks-master/code/datasets.py",
+		"/Users/richa/Desktop/TemporalConvolutionalNetworks-master/code/TCN_main.py",
+		"/Users/richa/Desktop/cons/out.txt",
+		"/Users/richa/Desktop/cons/src/Format.java",
+		"/Users/richa/Desktop/cons/in.txt",
+		"/Users/richa/Desktop/cons/bird.txt",
+		"/Users/richa/Desktop/cons/mam.txt",
+		"/Users/richa/Documents/acad 4-1/SOP/Codes/fac.java",
+		"/Users/richa/Desktop/grammar.txt",
+		"/Users/richa/Documents/acad42/ML/Project/dump_frames.py",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/scripts/evaluate_model.lua",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/data/multithumos/models/README.md",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/main.lua",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/dump_git_info.sh",
+		"/Users/richa/Documents/acad42/ML/Project/lol.py",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/notes.md",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/run.sh",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/runPreTrained.sh",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/download.sh",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/README.md",
+		"/Users/richa/Desktop/upload/multithumos/models/README.md",
+		"/Users/richa/Documents/acad42/ML/Project/list1.txt",
+		"/Users/richa/Documents/acad42/ML/Project/list.txt",
+		"/Users/richa/Documents/acad42/ML/Project/label.h5.yaml",
+		"/Users/richa/Documents/acad42/ML/Project/resize_images.py",
+		"/Users/richa/Documents/acad42/ML/Project/resize.py",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/reproduce_experiment.sh",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/scripts/flip_pyramid_model.lua",
+		"/Users/richa/Documents/acad42/ML/Project/predictive-corrective-master/scripts/count_labels.py",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P/driver.c",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P/lexer.c",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P/first_follow.txt",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P/parserDef.h",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P/parser.h",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P/parser.c",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P/lexer.h",
+		"/Users/richa/Documents/acad42/Compilers/2014B1A70213P/lexerDef.h",
+		"/Users/richa/Documents/acad42/Compilers/compilerConstruction/parser.h",
+		"/Users/richa/Documents/acad42/Compilers/compilerConstruction/parserDef.h",
+		"/Users/richa/Documents/acad42/Compilers/compilerConstruction/parser.c",
+		"/Users/richa/Documents/acad42/Compilers/compilerConstruction/lexer.h",
+		"/Users/richa/Documents/acad42/Compilers/compilerConstruction/driver.c",
+		"/Users/richa/Documents/acad42/Compilers/compilerConstruction/lexerDef.h",
+		"/Users/richa/Documents/acad42/Compilers/compilerConstruction/lexer.c",
+		"/Users/richa/Documents/acad42/Compilers/compilerConstruction/first_follow.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

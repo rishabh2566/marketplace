@@ -1,0 +1,9 @@
+ /* <!-- HERE YOU ADD CSS TO ADMIN AREA --!> */
+ 
+ #header {
+ background-color:darkslategray;
+ }
+
+ .module caption {
+     background-color: slategray;
+ }
